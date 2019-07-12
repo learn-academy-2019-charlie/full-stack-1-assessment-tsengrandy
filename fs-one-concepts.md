@@ -10,6 +10,6 @@ Try your best to answer each question on your own before looking up the answer o
 
 #### 4. What is a migration and why would you use one?
 
-#### 5. Explain strong params. Why would you use them?
+#### 5. Explain how to set up a route in React.
 
 #### 6. When would you use a generate resource over a generate controller?
