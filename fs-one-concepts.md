@@ -4,7 +4,7 @@ Try your best to answer each question on your own before looking up the answer o
 
 #### 1. What is Enzyme and what are some of the methods that it provides?
 
-#### 2. What is the difference between dynamic and a static route?
+#### 2. What is the difference between dynamic and a static routes?
 
 #### 3. What is a JSON API?
 
@@ -13,3 +13,7 @@ Try your best to answer each question on your own before looking up the answer o
 #### 5. Explain how to set up a route in React.
 
 #### 6. When would you use a generate resource over a generate controller?
+
+#### 7. Explain the difference between a controller spec and a request spec.
+
+#### 8. At this point in the program, what technologies/languages do you find yourself gravitating to?
