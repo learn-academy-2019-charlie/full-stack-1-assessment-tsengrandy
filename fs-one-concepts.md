@@ -16,4 +16,6 @@ Try your best to answer each question on your own before looking up the answer o
 
 #### 7. Explain the difference between a controller spec and a request spec.
 
-#### 8. At this point in the program, what technologies/languages do you find yourself gravitating to?
+#### 8. Describe the React component lifecycle. What are some of the lifecycle methods?
+
+#### 9. At this point in the program, what technologies/languages do you find yourself gravitating to?
